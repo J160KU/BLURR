@@ -57,7 +57,7 @@ Already done on this machine. Summary (see `AGENTS.md` for the exact commands):
    `%LOCALAPPDATA%\Programs\AutoHotkey\`.
 2. This project's `SelectCopyMiddlePaste.ahk` is the single canonical copy of the script (this
    folder — not copied elsewhere). It's launched via:
-   `AutoHotkey64.exe "C:\Users\<username>\Desktop\Projects\fast_copy_paste\SelectCopyMiddlePaste.ahk"`
+   `AutoHotkey64.exe "C:\Users\<username>\Desktop\Projects\BLURR\SelectCopyMiddlePaste.ahk"`
 3. A shortcut to that exact command lives in the Windows Startup folder so it runs at every logon:
    `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\SelectCopyMiddlePaste.lnk`
 
