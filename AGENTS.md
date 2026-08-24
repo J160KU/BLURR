@@ -143,5 +143,4 @@ and hard to interpret. Real physical input + the debug log above is faster and m
 
 ## License
 
-This project is licensed GPL-2.0-or-later — see `LICENSE` in this folder. See
-`BEST_PRACTICE_GITHUB.md` for why that license was chosen.
+This project is licensed GPL-2.0-or-later — see `LICENSE` in this folder.
